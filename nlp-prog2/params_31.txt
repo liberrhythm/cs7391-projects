@@ -1,0 +1,7 @@
+8
+B
+auto
+n
+n
+N
+nltk

@@ -1,0 +1,5 @@
+# ignore corpora
+_corpus/
+_corpus_augmented_full_splice/
+_corpus_augmented_half_splice/
+_corpus_preprocessed/
